@@ -9,4 +9,4 @@ Technical Description
 - JavaScript
 - SCSS
 
-Fonts used: [Halflings](https://www.wfonts.com/font/glyphicons-halflings), [Raleway Regular] (https://www.fontsquirrel.com/fonts/raleway) and [Vidaloka] (https://www.fontsquirrel.com/fonts/vidaloka).
+Fonts used: [Halflings](https://www.wfonts.com/font/glyphicons-halflings), [Raleway Regular](https://www.fontsquirrel.com/fonts/raleway) and [Vidaloka](https://www.fontsquirrel.com/fonts/vidaloka).
