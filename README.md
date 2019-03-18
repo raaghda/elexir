@@ -1,2 +1,2 @@
-# elexir
+# Elexir
 Elexir Juicebar
